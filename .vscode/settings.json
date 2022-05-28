@@ -1,4 +1,0 @@
-{
-    "appService.defaultWebAppToDeploy": "/subscriptions/6834de54-a102-454e-b5b6-92bab9bab4e3/microsoft.web/sites/subscriptions/6834de54-a102-454e-b5b6-92bab9bab4e3/resourceGroups/kineGroupAzure/providers/Microsoft.Web/sites/contactDjango",
-    "appService.deploySubpath": "."
-}
