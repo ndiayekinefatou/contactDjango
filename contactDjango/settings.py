@@ -26,8 +26,8 @@ SECRET_KEY = 'django-insecure-@aqut(zc5+ts$&n!zhjq@d49738_lz42w@_4k($oiccvg&3%ui
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['0.0.0.0', '10.42.0.1', '10.153.5.64', '127.0.0.1', 'localhost']
-
+#ALLOWED_HOSTS = ['0.0.0.0', '10.42.0.1', '172.20.10.2','10.153.5.96','127.0.0.1','172.20.10.14', 'localhost']
+ALLOWED_HOSTS = ['*']
 
 # Application definition
 
@@ -40,6 +40,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'gestionContact.apps.GestioncontactConfig',
     'rest_framework',
+    
 
 ]
 
@@ -71,6 +72,8 @@ TEMPLATES = [
     },
 ]
 
+
+
 WSGI_APPLICATION = 'contactDjango.wsgi.application'
 
 
@@ -79,8 +82,14 @@ WSGI_APPLICATION = 'contactDjango.wsgi.application'
 
 DATABASES = {
     'default': {
-        'ENGINE': 'django.db.backends.sqlite3',
-        'NAME': BASE_DIR / 'db.sqlite3',
+        'ENGINE': 'django.db.backends.postgresql',
+        'NAME': 'contactDjango',
+        'USER': 'fkine',
+        #'PASSWORD': 'fkine',
+        'PASSWORD': 'fk!ne994',
+        'HOST': 'localhost',
+        'PORT': '',
+       
     }
 }
 

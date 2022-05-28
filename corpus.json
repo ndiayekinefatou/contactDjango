@@ -1,0 +1,98 @@
+{ "expression": "seetal ma","action": "chercher" }
+{ "expression": "xoolal ma","action": "chercher" }
+{ "expression": "xoolal ma foofu","action": "chercher" }
+{ "expression": "xoolal ma foo fu","action": "chercher" }
+{ "expression": "wootel ma","action": "appeler" }
+{ "expression": "dindil ma","action": "supprimer" }
+{ "expression": "duggëlël ma","action": "enregistrer" }
+{ "expression": "wërël ma","action": "chercher" }
+{ "expression": "dolil ma","action": "ajouter" }
+{ "expression": "jox ma","action": "chercher" }
+{ "expression": "wan ma","action": "chercher" }
+{ "expression": "wax ma","action": "donner" }
+{ "expression": "waxma","action": "donner" }
+{ "expression": "won ma","action": "chercher" }
+{ "expression": "wonma","action": "chercher" }
+{ "expression": "géenel ma","action": "chercher" }
+{ "expression": "géenel ma foofu","action": "chercher" }
+{ "expression": "géenel ma foof fu","action": "chercher" }
+{ "expression": "déedéet","action": "annuler" }
+{ "expression": "waaw","action": "confirmer" }
+{ "expression": "ubbil ma","action": "chercher" }
+{ "expression": "gëstul ma","action": "chercher" }
+{ "expression": "soppil ma","action": "modifier" }
+{ "expression": "boolel ma ci","action": "ajouter" }
+{ "expression": "boolel ma","action": "ajouter" }
+{ "expression": "dolil ma ci","action": "ajouter" }
+{ "expression": "woowal ma","action": "appeler" }
+{ "expression": "woowal ma foofu","action": "appeler" }
+{ "expression": "woowal ma foo fu","action": "appeler" }
+{ "expression": "waxal ma","action": "donner" }
+{ "expression": "seetalma","action": "chercher" }
+{ "expression": "seetalma foofu","action": "chercher" }
+{ "expression": "seetalma foo fu","action": "chercher" }
+{ "expression": "setalma","action": "chercher" }
+{ "expression": "setalma foofu","action": "chercher" }
+{ "expression": "setalma foo fu","action": "chercher" }
+{ "expression": "xoolalma","action": "chercher" }
+{ "expression": "xoolalma foofu","action": "chercher" }
+{ "expression": "xoolalma foo fu","action": "chercher" }
+{ "expression": "xoolal","action": "chercher" }
+{ "expression": "xoolal foofu","action": "chercher" }
+{ "expression": "xoolal foo fu","action": "chercher" }
+{ "expression": "xoo lal","action": "chercher" }
+{ "expression": "xoo lal foofu","action": "chercher" }
+{ "expression": "xoo lal foo fu","action": "chercher" }
+{ "expression": "woo tel ma","action": "appeler" }
+{ "expression": "woo tel","action": "appeler" }
+{ "expression": "wootelma","action": "appeler" }
+{ "expression": "wootel","action": "appeler" }
+{ "expression": "woo ko","action": "appeler" }
+{ "expression": "wooko","action": "appeler" }
+{ "expression": "wool ma foofu","action": "appeler" }
+{ "expression": "wool ma foo fu","action": "appeler" }
+{ "expression": "woolma foo fu","action": "appeler" }
+{ "expression": "woolma foofu","action": "appeler" }
+{ "expression": "dindil","action": "supprimer" }
+{ "expression": "dindilma","action": "supprimer" }
+{ "expression": "dindiko","action": "supprimer" }
+{ "expression": "dindi ko","action": "supprimer" }
+{ "expression": "dindi ci","action": "supprimer" }
+{ "expression": "dindici","action": "supprimer" }
+{ "expression": "duggëlëlma","action": "enregistrer" }
+{ "expression": "duggëlëlma","action": "enregistrer" }
+{ "expression": "dugëlël","action": "enregistrer" }
+{ "expression": "dugëlël ma","action": "enregistrer" }
+{ "expression": "wërëlma","action": "chercher" }
+{ "expression": "wërëlma foofu","action": "chercher" }
+{ "expression": "wërëlma foo fu","action": "chercher" }
+{ "expression": "wërël","action": "chercher" }
+{ "expression": "dolilma","action": "ajouter" }
+{ "expression": "dolil ci","action": "ajouter" }
+{ "expression": "géenelma","action": "chercher" }
+{ "expression": "géenelma foofu","action": "chercher" }
+{ "expression": "géenelma foo fu","action": "chercher" }
+{ "expression": "géenel","action": "chercher" }
+{ "expression": "ubbilma","action": "chercher" }
+{ "expression": "gëstulma","action": "chercher" }
+{ "expression": "gëstul","action": "chercher" }
+{ "expression": "sopil ma","action": "modifier" }
+{ "expression": "soppilma","action": "modifier" }
+{ "expression": "sopilma","action": "modifier" }
+{ "expression": "soppil","action": "modifier" }
+{ "expression": "sopil","action": "modifier" }
+{ "expression": "boolelmaci","action": "ajouter" }
+{ "expression": "boolelma ci","action": "ajouter" }
+{ "expression": "boole ci","action": "ajouter" }
+{ "expression": "booleci","action": "ajouter" }
+{ "expression": "dolilmaci","action": "ajouter" }
+{ "expression": "dollil ma ci","action": "ajouter" }
+{ "expression": "dolici","action": "ajouter" }
+{ "expression": "dollici","action": "ajouter" }
+{ "expression": "dolli ci","action": "ajouter" }
+{ "expression": "doli ci","action": "ajouter" }
+{ "expression": "woowalma","action": "appeler" }
+{ "expression": "woowalma foo fu","action": "appeler" }
+{ "expression": "woowal","action": "appeler" }
+{ "expression": "waxalma","action": "donner" }
+{ "expression": "waxal","action": "donner" }
